@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.kadwa-regular {
+  font-family: "Kadwa", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.kadwa-bold {
+  font-family: "Kadwa", serif;
+  font-weight: 700;
+  font-style: normal;
+}
